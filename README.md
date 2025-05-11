@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/webricated/Leetcode/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/webricated/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/webricated/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/webricated/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/webricated/Leetcode/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/webricated/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
