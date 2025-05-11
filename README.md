@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/webricated/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/webricated/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/webricated/Leetcode/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/webricated/Leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -35,4 +36,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/webricated/Leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/webricated/Leetcode/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/webricated/Leetcode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
