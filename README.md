@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/webricated/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/webricated/Leetcode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/webricated/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/webricated/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/webricated/Leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -53,10 +54,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/webricated/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/webricated/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/webricated/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/webricated/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/webricated/Leetcode/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/webricated/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
