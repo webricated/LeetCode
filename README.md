@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/webricated/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/webricated/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/webricated/Leetcode/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/webricated/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/webricated/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/webricated/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/webricated/Leetcode/tree/master/0231-power-of-two) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/webricated/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/webricated/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/webricated/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/webricated/Leetcode/tree/master/0342-power-of-four) |
