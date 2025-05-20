@@ -1,35 +1,25 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        int m = matrix.length, n = matrix[0].length;
+        int row = matrix.length;
+        int col = matrix[0].length;
+        
+        int[][] ans = new int[row][col];
 
-        // Step 1: Copy matrix into answer array
-        int[][] ans = new int[m][n];
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
+        // Created a copy array name ans[][]
+        for(int i = 0; i < row; i++)
+            for(int j = 0; j < col; j++)
                 ans[i][j] = matrix[i][j];
-            }
-        }
-
-        // Step 2: Traverse the original matrix
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (matrix[i][j] == 0) {
-                    // Mark entire row and column in ans
-                    for (int col = 0; col < n; col++) {
-                        ans[i][col] = 0;
-                    }
-                    for (int row = 0; row < m; row++) {
-                        ans[row][j] = 0;
-                    }
+        
+        for(int i = 0; i < row; i++){
+            for(int j = 0; j < col; j++){
+                if(matrix[i][j] == 0){
+                    for(int cols = 0; cols < col; cols++) ans[i][cols] = 0;
+                    for(int rows = 0; rows < row; rows++) ans[rows][j] = 0;
                 }
             }
         }
-
-        // Step 3: Copy result back to original matrix
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
+        for(int i = 0; i < row; i++)
+            for(int j = 0; j < col; j++)
                 matrix[i][j] = ans[i][j];
-            }
-        }
     }
 }
