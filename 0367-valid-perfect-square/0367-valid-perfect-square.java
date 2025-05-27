@@ -1,17 +1,17 @@
-public class Solution {
+class Solution {
     public boolean isPerfectSquare(int num) {
-        if (num < 2) return true;
-        return isPerfectSquareHelper(num, 2, num / 2);
+        if(num < 2) return true;
+        return perfectSq(num, 2, num/2);
     }
 
-    private boolean isPerfectSquareHelper(int num, long left, long right) {
-        if (left > right) return false;
+    public boolean perfectSq(int num, int left, int right){
+        if(left > right) return false;
+        int mid = left + (right-left)/2;
+        long decision = (long) mid * mid;
 
-        long mid = left + (right - left) / 2;
-        long square = mid * mid;
-
-        if (square == num) return true;
-        else if (square < num) return isPerfectSquareHelper(num, mid + 1, right);
-        else return isPerfectSquareHelper(num, left, mid - 1);
+        if(decision == num) return true;
+        else if(decision > num) return perfectSq(num, left, mid-1);
+        else return perfectSq(num, mid+1, right);
     }
+
 }
