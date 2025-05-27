@@ -1,17 +1,16 @@
 class Solution {
     public boolean isPerfectSquare(int num) {
         if(num < 2) return true;
-        return perfectSq(num, 2, num/2);
+        if(num < 101){
+            for(int i = 2; i < (num/2)+1; i++){
+            if(i*i == num) return true;
+            }
+        }
+        else if(num >= 101){
+            for(int i = 2; i < (num/10)+1; i++){
+            if(i*i == num) return true;
+            }
+        }
+         return false;
     }
-
-    public boolean perfectSq(int num, int left, int right){
-        if(left > right) return false;
-        int mid = left + (right-left)/2;
-        long decision = (long) mid * mid;
-
-        if(decision == num) return true;
-        else if(decision > num) return perfectSq(num, left, mid-1);
-        else return perfectSq(num, mid+1, right);
-    }
-
 }
