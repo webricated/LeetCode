@@ -2,25 +2,26 @@ public class Solution {
     private static final int MOD = 1_000_000_007;
 
     public int countGoodNumbers(long n) {
-        long evenPositions = (n + 1) / 2;
-        long oddPositions = n / 2;
+        long evenCount = (n + 1) / 2;
+        long oddCount = n / 2;
 
-        long evenCount = modPow(5, evenPositions);
-        long oddCount = modPow(4, oddPositions);
+        long evenPart = modPowRecursive(5, evenCount);
+        long oddPart = modPowRecursive(4, oddCount);
 
-        return (int)((evenCount * oddCount) % MOD);
+        return (int)((evenPart * oddPart) % MOD);
     }
 
-    private long modPow(long base, long exp) {
-        long result = 1;
-        base %= MOD;
-        while (exp > 0) {
-            if ((exp & 1) == 1) {
-                result = (result * base) % MOD;
-            }
-            base = (base * base) % MOD;
-            exp >>= 1;
+    // Recursive binary exponentiation
+    private long modPowRecursive(long base, long exp) {
+        if (exp == 0) return 1;
+
+        long half = modPowRecursive(base, exp / 2);
+        long result = (half * half) % MOD;
+
+        if (exp % 2 == 1) {
+            result = (result * base) % MOD;
         }
+
         return result;
     }
 }
