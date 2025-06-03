@@ -5,12 +5,10 @@ public class Solution {
         ListNode slow = head;
         ListNode fast = head;
 
-        // Detecting Cycle using Floyd’s algorithm
         while (fast != null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
 
-            // Detecting Cycle
             if (slow == fast) {
                 slow = head;
                 while (slow != fast) {
@@ -20,7 +18,6 @@ public class Solution {
                 return slow;
             }
         }
-
         return null;
     }
 }
