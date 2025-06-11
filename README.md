@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/webricated/Leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/webricated/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/webricated/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/webricated/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/webricated/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/webricated/Leetcode/tree/master/0898-transpose-matrix) |
 | [1048-clumsy-factorial](https://github.com/webricated/Leetcode/tree/master/1048-clumsy-factorial) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/webricated/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/webricated/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/webricated/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Linked List
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/webricated/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/webricated/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1048-clumsy-factorial](https://github.com/webricated/Leetcode/tree/master/1048-clumsy-factorial) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/webricated/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0649-dota2-senate](https://github.com/webricated/Leetcode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/webricated/Leetcode/tree/master/0969-number-of-recent-calls) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/webricated/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/webricated/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Data Stream
 |  |
