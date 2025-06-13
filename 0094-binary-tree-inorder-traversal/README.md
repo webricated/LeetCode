@@ -51,3 +51,72 @@
 
 <p>&nbsp;</p>
 <strong>Follow up:</strong> Recursive solution is trivial, could you do it iteratively?
+
+
+```Java
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+
+// Recursion
+public class Solution {
+    public List<Integer> inorderTraversal(TreeNode root) {
+        List<Integer> result = new LinkedList<>();
+        inorderHelper(root, result);
+        return result;
+    }
+
+    private void inorderHelper(TreeNode node, List<Integer> result) {
+        if (node == null) return;
+
+        inorderHelper(node.left, result);
+        result.add(node.val);
+        inorderHelper(node.right, result);
+    }
+}
+```
+
+```Java
+// Morris Traversal for Inorder (No Recursion and Stack)
+public class Solution {
+    public List<Integer> inorderTraversal(TreeNode root) {
+        List<Integer> result = new ArrayList<>();
+        TreeNode curr = root;
+
+        while (curr != null) {
+            if (curr.left == null) {
+                result.add(curr.val);
+                curr = curr.right;
+            } else {
+                TreeNode predecessor = curr.left;
+                while (predecessor.right != null && predecessor.right != curr) {
+                    predecessor = predecessor.right;
+                }
+
+                if (predecessor.right == null) {
+                    predecessor.right = curr;
+                    curr = curr.left;
+                } else {
+                    predecessor.right = null;
+                    result.add(curr.val);
+                    curr = curr.right;
+                }
+            }
+        }
+
+        return result;
+    }
+}
+```
