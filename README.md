@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/webricated/Leetcode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/webricated/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/webricated/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/webricated/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/webricated/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/webricated/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/webricated/Leetcode/tree/master/0566-reshape-the-matrix) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/webricated/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/webricated/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/webricated/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/webricated/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/webricated/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/webricated/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/webricated/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/webricated/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/webricated/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/webricated/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/webricated/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/webricated/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/webricated/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/webricated/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/webricated/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/webricated/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -233,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/webricated/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/webricated/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/webricated/Leetcode/tree/master/0226-invert-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/webricated/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
