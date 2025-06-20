@@ -1,7 +1,7 @@
 class RecentCounter {
-    public Queue<Integer> q;
+    public Queue<Integer> q = new LinkedList<>();
     public RecentCounter() {
-        q = new LinkedList<>();
+        //q = new LinkedList<>();
     }
     
     public int ping(int t) {
