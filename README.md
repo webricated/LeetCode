@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/webricated/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/webricated/Leetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/webricated/Leetcode/tree/master/0861-flipping-an-image) |
+| [0878-shifting-letters](https://github.com/webricated/Leetcode/tree/master/0878-shifting-letters) |
 | [0890-lemonade-change](https://github.com/webricated/Leetcode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/webricated/Leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/webricated/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/webricated/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0878-shifting-letters](https://github.com/webricated/Leetcode/tree/master/0878-shifting-letters) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/webricated/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/webricated/Leetcode/tree/master/0020-valid-parentheses) |
 | [0649-dota2-senate](https://github.com/webricated/Leetcode/tree/master/0649-dota2-senate) |
+| [0878-shifting-letters](https://github.com/webricated/Leetcode/tree/master/0878-shifting-letters) |
 ## Dynamic Programming
 |  |
 | ------- |
