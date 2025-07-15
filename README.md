@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/webricated/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/webricated/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/webricated/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/webricated/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/webricated/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/webricated/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/webricated/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/webricated/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/webricated/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/webricated/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0975-range-sum-of-bst](https://github.com/webricated/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -270,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/webricated/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/webricated/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/webricated/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
