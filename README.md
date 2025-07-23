@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0649-dota2-senate](https://github.com/webricated/Leetcode/tree/master/0649-dota2-senate) |
 | [0890-lemonade-change](https://github.com/webricated/Leetcode/tree/master/0890-lemonade-change) |
+| [1285-balance-a-binary-search-tree](https://github.com/webricated/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Tree
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/webricated/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/webricated/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0975-range-sum-of-bst](https://github.com/webricated/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/webricated/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/webricated/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/webricated/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0975-range-sum-of-bst](https://github.com/webricated/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/webricated/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/webricated/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/webricated/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/webricated/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/webricated/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/webricated/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/webricated/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0975-range-sum-of-bst](https://github.com/webricated/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/webricated/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -276,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/webricated/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/webricated/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/webricated/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
