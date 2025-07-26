@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/webricated/Leetcode/tree/master/0878-shifting-letters) |
 | [0890-lemonade-change](https://github.com/webricated/Leetcode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/webricated/Leetcode/tree/master/0898-transpose-matrix) |
+| [1039-find-the-town-judge](https://github.com/webricated/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/webricated/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/webricated/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/webricated/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/webricated/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/webricated/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/webricated/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1039-find-the-town-judge](https://github.com/webricated/Leetcode/tree/master/1039-find-the-town-judge) |
 ## String
 |  |
 | ------- |
@@ -312,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/webricated/Leetcode/tree/master/0327-count-of-range-sum) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/webricated/Leetcode/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
