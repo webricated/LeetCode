@@ -9,15 +9,15 @@
  * }
  */
 class Solution {
-    public ListNode removeElements(ListNode head, int val) {
-        // Because head is traversing/checking val/returning head together : Base Case
-        if(head == null) return null;
-        ListNode newList = removeElements(head.next, val);
-        // Skip this node if val matches
-        if(head.val == val) return newList;
-        // Include in the list or do not skip if val doesn't matches
-        else head.next = newList;
-        // Returning head because head is used to traverse here
-        return head;
+    public ListNode removeElements(ListNode head, int target) {
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+        ListNode temp = dummy;
+        
+        while(temp.next != null){
+            if(temp.next.val == target) temp.next = temp.next.next;
+            else temp = temp.next;
+        }
+        return dummy.next;
     }
 }
