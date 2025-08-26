@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/webricated/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/webricated/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/webricated/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/webricated/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/webricated/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/webricated/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/webricated/Leetcode/tree/master/0342-power-of-four) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/webricated/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/webricated/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/webricated/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/webricated/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/webricated/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/webricated/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/webricated/Leetcode/tree/master/0861-flipping-an-image) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/webricated/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/webricated/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/webricated/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/webricated/Leetcode/tree/master/0202-happy-number) |
 | [1039-find-the-town-judge](https://github.com/webricated/Leetcode/tree/master/1039-find-the-town-judge) |
 ## String
 |  |
