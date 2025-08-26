@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/webricated/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/webricated/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/webricated/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/webricated/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/webricated/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0566-reshape-the-matrix](https://github.com/webricated/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/webricated/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/webricated/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/webricated/Leetcode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/webricated/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/webricated/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0367-valid-perfect-square](https://github.com/webricated/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/webricated/Leetcode/tree/master/0792-binary-search) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/webricated/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/webricated/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/webricated/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/webricated/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/webricated/Leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/webricated/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/webricated/Leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/webricated/Leetcode/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/webricated/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/webricated/Leetcode/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/webricated/Leetcode/tree/master/0861-flipping-an-image) |
 ## Matrix
