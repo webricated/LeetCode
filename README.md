@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/webricated/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/webricated/Leetcode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/webricated/Leetcode/tree/master/0058-length-of-last-word) |
 | [0649-dota2-senate](https://github.com/webricated/Leetcode/tree/master/0649-dota2-senate) |
 | [0878-shifting-letters](https://github.com/webricated/Leetcode/tree/master/0878-shifting-letters) |
 | [2470-removing-stars-from-a-string](https://github.com/webricated/Leetcode/tree/master/2470-removing-stars-from-a-string) |
