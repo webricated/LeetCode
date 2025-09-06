@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/webricated/Leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/webricated/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/webricated/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/webricated/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/webricated/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/webricated/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/webricated/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/webricated/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/webricated/Leetcode/tree/master/1013-fibonacci-number) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/webricated/Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/webricated/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/webricated/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0327-count-of-range-sum](https://github.com/webricated/Leetcode/tree/master/0327-count-of-range-sum) |
