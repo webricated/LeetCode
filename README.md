@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/webricated/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/webricated/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/webricated/Leetcode/tree/master/0327-count-of-range-sum) |
+| [0498-diagonal-traverse](https://github.com/webricated/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/webricated/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/webricated/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0777-toeplitz-matrix](https://github.com/webricated/Leetcode/tree/master/0777-toeplitz-matrix) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/webricated/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/webricated/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/webricated/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/webricated/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/webricated/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/webricated/Leetcode/tree/master/0861-flipping-an-image) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/webricated/Leetcode/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/webricated/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/webricated/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/webricated/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/webricated/Leetcode/tree/master/0898-transpose-matrix) |
