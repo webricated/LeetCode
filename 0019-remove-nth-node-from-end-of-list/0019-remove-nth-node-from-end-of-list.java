@@ -1,29 +1,17 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        ListNode list = new ListNode(0, head);
-        ListNode temp = list;
 
-        for(int i = 0; i < n; i++){
-            head =  head.next;
+        ListNode first = new ListNode(0, head);
+        ListNode second = first;
+        ListNode temp = first;
+        for(int i = 1; i <= n; i++){
+            first = first.next;
         }
-        while(head != null){
-            head =  head.next;
-            temp = temp.next;
+        while(first.next != null){
+            first = first.next;
+            second = second.next;
         }
-        temp.next = temp.next.next;
-        return list.next;
+        second.next = second.next.next;
+        return temp.next;
     }
 }
-
-// Why we should not traverse the list instead of head and return head at last?
-// Think about the last nth node is head itself. Then what will be the answer...❌
