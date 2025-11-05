@@ -1,12 +1,9 @@
 class Solution {
-        int[] memo = new int[46];
-
+    int[] memo = new int[46];
     public int climbStairs(int n) {
-        if(n <= 3) return n;
-
-        if(memo[n] != 0) return memo[n];
-
-        memo[n] = climbStairs(n-1) + climbStairs(n-2);
+        if(n == 1) return 1;
+        if(n == 2) return 2;
+        if(memo[n] == 0) memo[n] = climbStairs(n - 1) + climbStairs(n - 2);
         return memo[n];
     }
 }
