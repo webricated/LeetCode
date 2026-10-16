@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/webricated/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/webricated/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/webricated/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1512-number-of-good-pairs](https://github.com/webricated/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/webricated/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/webricated/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/webricated/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-clumsy-factorial](https://github.com/webricated/Leetcode/tree/master/1048-clumsy-factorial) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/webricated/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/webricated/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1512-number-of-good-pairs](https://github.com/webricated/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/webricated/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/webricated/Leetcode/tree/master/2050-count-good-numbers) |
 ## Two Pointers
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/webricated/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/webricated/Leetcode/tree/master/0202-happy-number) |
 | [1039-find-the-town-judge](https://github.com/webricated/Leetcode/tree/master/1039-find-the-town-judge) |
+| [1512-number-of-good-pairs](https://github.com/webricated/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -342,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/webricated/Leetcode/tree/master/1039-find-the-town-judge) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/webricated/LeetCode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
