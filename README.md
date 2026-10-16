@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/webricated/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/webricated/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/webricated/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/webricated/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/webricated/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/webricated/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/webricated/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/webricated/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/webricated/Leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/webricated/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/webricated/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
