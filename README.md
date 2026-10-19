@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/webricated/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/webricated/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/webricated/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/webricated/LeetCode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/webricated/Leetcode/tree/master/1013-fibonacci-number) |
 | [1048-clumsy-factorial](https://github.com/webricated/Leetcode/tree/master/1048-clumsy-factorial) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/webricated/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/webricated/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/webricated/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/webricated/Leetcode/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/webricated/LeetCode/tree/master/0412-fizz-buzz) |
 | [0649-dota2-senate](https://github.com/webricated/Leetcode/tree/master/0649-dota2-senate) |
 | [0878-shifting-letters](https://github.com/webricated/Leetcode/tree/master/0878-shifting-letters) |
 | [2470-removing-stars-from-a-string](https://github.com/webricated/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/webricated/Leetcode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/webricated/LeetCode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/webricated/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/webricated/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/webricated/Leetcode/tree/master/0861-flipping-an-image) |
