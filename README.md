@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/webricated/Leetcode/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/webricated/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/webricated/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/webricated/LeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/webricated/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/webricated/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0498-diagonal-traverse](https://github.com/webricated/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/webricated/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/webricated/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/webricated/Leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/webricated/LeetCode/tree/master/0217-contains-duplicate) |
 | [1039-find-the-town-judge](https://github.com/webricated/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1512-number-of-good-pairs](https://github.com/webricated/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## String
@@ -352,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/webricated/LeetCode/tree/master/1512-number-of-good-pairs) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/webricated/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
