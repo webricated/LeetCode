@@ -11,21 +11,24 @@ class MyQueue {
     }
     
     public int pop() {
-        if(s2.isEmpty())
-            while(!s1.isEmpty())
-                s2.push(s1.pop());
+        mover();
         return s2.pop();
     }
     
     public int peek() {
-        if(s2.isEmpty())
-            while(!s1.isEmpty())
-                s2.push(s1.pop());
+        mover();
         return s2.peek();
     }
     
     public boolean empty() {
         return (s1.isEmpty() && s2.isEmpty());
+    }
+    public void mover(){
+        if(s2.isEmpty()){
+            while(!s1.isEmpty()){
+                s2.push(s1.pop());
+            }
+        }
     }
 }
 
