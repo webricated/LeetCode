@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/webricated/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/webricated/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/webricated/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/webricated/LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/webricated/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/webricated/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/webricated/Leetcode/tree/master/0134-gas-station) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/webricated/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/webricated/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/webricated/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/webricated/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/webricated/Leetcode/tree/master/1013-fibonacci-number) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/webricated/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/webricated/Leetcode/tree/master/0134-gas-station) |
 | [0649-dota2-senate](https://github.com/webricated/Leetcode/tree/master/0649-dota2-senate) |
 | [0860-lemonade-change](https://github.com/webricated/LeetCode/tree/master/0860-lemonade-change) |
