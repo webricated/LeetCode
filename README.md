@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/webricated/LeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/webricated/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/webricated/Leetcode/tree/master/0327-count-of-range-sum) |
+| [0496-next-greater-element-i](https://github.com/webricated/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/webricated/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/webricated/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/webricated/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/webricated/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/webricated/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/webricated/LeetCode/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/webricated/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1039-find-the-town-judge](https://github.com/webricated/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1512-number-of-good-pairs](https://github.com/webricated/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## String
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/webricated/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/webricated/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/webricated/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/webricated/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1048-clumsy-factorial](https://github.com/webricated/Leetcode/tree/master/1048-clumsy-factorial) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/webricated/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2470-removing-stars-from-a-string](https://github.com/webricated/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -361,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/webricated/LeetCode/tree/master/0217-contains-duplicate) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/webricated/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
